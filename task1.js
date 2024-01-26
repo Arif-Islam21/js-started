@@ -14,6 +14,12 @@
 // console.log(average);
 
 // TASK 3
-var number = 119;
-var remainder = number % 5;
-console.log(remainder);
+// var number = 119;
+// var remainder = number % 5;
+// console.log(remainder);
+
+// TASK 4
+// var a = isNaN("11");
+// console.log(a);
+var a = isNaN(2 - 10);
+console.log(a);
